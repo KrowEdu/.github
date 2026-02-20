@@ -2,7 +2,7 @@
   <img src="https://krow.com.tr/assets/img/cover.jpg" alt="KROW Banner" width="100%" />
 </p> -->
 
-<h1 align="center">KROW – KPSS & AGS Hazırlık Uygulamanız</h1>
+<h1 align="center">KROW – KPSS, AGS, YKS, LGS, DGS ve ALES Hazırlık Uygulamanız</h1>
 
 <p align="center">
   Türkiye'nin ilk çevreci, dijital ve sınava özel hazırlık platformu.
@@ -16,7 +16,7 @@
 
 ## 📲 KROW Nedir?
 
-**KROW**, KPSS ve AGS sınavlarına dijital ortamda hazırlanmak isteyen adaylar için geliştirilmiş, yenilikçi ve kullanıcı dostu bir mobil uygulamadır. 30.000’den fazla özgün soru, yapay zekâ destekli analizler ve kişiselleştirilmiş hedeflerle sınav sürecinizi daha verimli ve çevreci hale getirir.
+**KROW**, KPSS, AGS, YKS, LGS, DGS ve ALES sınavlarına dijital ortamda hazırlanmak isteyen adaylar için geliştirilmiş, yenilikçi ve kullanıcı dostu bir mobil uygulamadır. 30.000’den fazla özgün soru, yapay zekâ destekli analizler ve kişiselleştirilmiş hedeflerle sınav sürecinizi daha verimli ve çevreci hale getirir.
 
 ---
 
@@ -32,8 +32,7 @@
 
 ## 👩‍🏫 Uzman Eğitmen Kadrosu
 
-KROW, alanında uzman öğretmenlerle birlikte hazırlanmıştır. Eğitim içeriklerimiz;  
-**Metin Şar, Kadir Koç, Zafer Özcan Oflaz, Özgür Özkınık** gibi isimler tarafından desteklenmektedir.
+KROW, alanında uzman öğretmenlerle birlikte hazırlanmıştır.
 
 ---
 
